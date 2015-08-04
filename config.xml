@@ -5,6 +5,7 @@
         id        = "com.spark.sparkmobile"
         versionCode = "2000"
         version   = "2.0">
+    <name>Spark Mobile</name>
 
     <description>
         Spark Mobile official app
